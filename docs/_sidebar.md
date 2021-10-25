@@ -14,6 +14,9 @@
 ## 数据库 
   #### oracle
    [oracle基本操作](db/oracle基本操作.md)
+
+   [oracle12c基本操作](db/oracle12c基本操作.md)
+
   #### mysql
   #### mongo
   #### redis
