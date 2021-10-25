@@ -9,15 +9,27 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <!--a href="#/?id=技术探讨">技术探讨</a-->
+    <a href="#/?id=linux">Linux</a>
+	<a href="#/?id=数据库">数据库</a>
+    <a href="#/bar/a">bar/a</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
-      loadSidebar: true
+      repo: '',
+      loadSidebar: true ,
+	  loadNavbar: true ,
+	  coverpage: true,
+      autoHeader: true,
+      <!--maxLevel: 7,
+      <!--subMaxLevel: 7,
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
 </body>
 </html>
