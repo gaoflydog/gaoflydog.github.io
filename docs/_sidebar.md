@@ -1,41 +1,41 @@
 #  技术探讨 #
 ##  Linux 
 
-   ##### Centos7 ###
-​        [Centos7基本操作](centos/centos7基本操作.md)
+   ### Centos7
+  [Centos7基本操作](centos/centos7基本操作.md)
 
-   ##### Centos6 ###
-​        [Centos6基本操作](centos/centos6基本操作.md)
+   ### Centos6
+  [Centos6基本操作](centos/centos6基本操作.md)
 
-​        [Centos6升级openssh](centos/centos6升级openssh.md)
+  [Centos6升级openssh](centos/centos6升级openssh.md)
 
-   #####  RedHat  ###
+   ###  RedHat
 
 ## 数据库 
-  #### oracle
-   [oracle基本操作](db/oracle基本操作.md)
+  ### oracle
+  [oracle基本操作](db/oracle基本操作.md)
 
-   [oracle12c基本操作](db/oracle12c基本操作.md)
+  [oracle12c基本操作](db/oracle12c基本操作.md)
 
-  #### mysql
+  ### mysql
 
-   [mysql基本操作](db/mysql基本操作.md)
+  [mysql基本操作](db/mysql基本操作.md)
 
-   [mysql优化](db/mysql优化.md)
+  [mysql优化](db/mysql优化.md)
 
-  #### mongo
-  #### redis
-  #### PG
-  #### 其他
+  ### mongo
+  ### redis
+  ### PG
+  ### 其他
 
 ## Rancher ## 
 - ### 部署
 
-​        [安装前预检查](rancher/安装前预检查.md)
+  [安装前预检查](rancher/安装前预检查.md)
 
-​         [centos7优化](rancher/centos7优化.md)
+  [centos7优化](rancher/centos7优化.md)
 
-​        [centos7优化](rancher/centos7优化.md)
+  [centos7优化](rancher/centos7优化.md)
 
 - ### 2.6.x
 
@@ -54,7 +54,7 @@
 - ### 其他
 
 ## Docker ## 
-- ### 安装优化
+ ### 安装优化
 
   [docker安装](docker/docker安装.md)
 
@@ -70,7 +70,7 @@
 
 ## 智慧校园平台 ## 
 
-- ### 安装
+### 安装
 
   [mysql初始化](zhxy/mysql初始化.md)
 
