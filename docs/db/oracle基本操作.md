@@ -4,11 +4,15 @@ lsnrctl status
 
 
 
+<br>
+
 env|grep LANG
 
 env|grep NLS_LANG
 
 
+
+<br>
 
 sqlplus / as sysdba
 
@@ -19,6 +23,8 @@ archive log list;
 show parameter recovery
 
 
+
+<br>
 
 show parameter process;
 

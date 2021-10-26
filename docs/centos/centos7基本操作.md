@@ -6,11 +6,17 @@ free -m
 
 df -h
 
+
+
+<br>
+
 服务管理：
 
 systemctl status sshd
 
 
+
+<br>
 
 防火墙：
 
