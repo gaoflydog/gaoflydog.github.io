@@ -35,7 +35,7 @@
 
 ​         [centos7优化](rancher/centos7优化.md)
 
-​          [centos7优化](rancher/centos7优化.md)
+​        [centos7优化](rancher/centos7优化.md)
 
 - ### 2.6.x
 
@@ -55,6 +55,27 @@
 
 ## Docker ## 
 - ### 安装优化
+
+  [docker安装](docker/docker安装.md)
+
+  [docker优化](docker/docker优化.md)
+
+  [docker基本操作](docker/docker基本操作.md)
+
+  
+
 - ### 基础镜像
+
+- ddd 
+
+## 智慧校园平台 ## 
+
+- ### 安装
+
+  [mysql初始化](zhxy/mysql初始化.md)
+
+  [认证部署](zhxy/认证部署.md)
+
+  [云平台部署](zhxy/云平台部署.md)
 
 # 人生感悟 #
