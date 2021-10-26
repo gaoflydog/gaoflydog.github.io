@@ -65,3 +65,10 @@ grant dba to portal_service;
 select userenv('language') from dual;
 ```
 
+```bash
+##客户端
+export NLS_LANG=XXXX
+sqlplus / as sysdba
+select userenv('language') from dual;
+```
+
