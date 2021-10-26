@@ -34,8 +34,12 @@
   [安装前预检查](rancher/安装前预检查.md)
 
   [centos7优化](rancher/centos7优化.md)
+  
+  [4层代理配Ingress全局默认证书](rancher/4layer-ingress.md)
+  
 
-  [centos7优化](rancher/centos7优化.md)
+
+  
 
 - ### 2.6.x
 
@@ -63,8 +67,7 @@
   [docker基本操作](docker/docker基本操作.md)
 
   
-
-- ### 基础镜像
+ ### 基础镜像
 
 - ddd 
 
