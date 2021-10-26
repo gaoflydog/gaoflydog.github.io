@@ -37,6 +37,8 @@
   
   [4层代理配Ingress全局默认证书](rancher/4layer-ingress.md)
   
+  [rancher/system/ingress-nginx配置](rancher/ingress-nginx.md)
+  
 
 
   
