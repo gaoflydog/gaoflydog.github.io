@@ -19,6 +19,8 @@
 
   ### mysql
 
+  [mysql8安装](db/mysql8安装.md)
+  
   [mysql基本操作](db/mysql基本操作.md)
 
   [mysql优化](db/mysql优化.md)
@@ -67,6 +69,8 @@
   [docker优化](docker/docker优化.md)
 
   [docker基本操作](docker/docker基本操作.md)
+  
+  [docker-file](docker/docker-file.md)
 
   
  ### 基础镜像
